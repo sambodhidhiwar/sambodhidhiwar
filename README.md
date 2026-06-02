@@ -9,18 +9,22 @@ Aspiring Data Analyst | Business Analyst | Data Scientist
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sambodhidhiwar&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=sambodhidhiwar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
+---
 
 ## 📊 About Me
 
-- 🎓 MBA AI and ML
-- 📈 Aspiring Data Analyst, Business Analyst, Data Scientist
-- 🐍 Learning Python
-- 🗄️ SQL Enthusiast
+- 🎓 MBA AI & ML Student
+- 📈 Aspiring Data Analyst, Business Analyst & Data Scientist
+- 🐍 Python Enthusiast
+- 🗄️ SQL & Database Management
 - 📊 Power BI Dashboard Developer
-- 🤖 Interested in Machine Learning
-- 🚀 Open to internships and collaborations
+- 🤖 Machine Learning Learner
+- 🚀 Open to Internships & Collaborations
+
+---
 
 <h2>🛠 Skills & Projects</h2>
 
@@ -63,31 +67,44 @@ Aspiring Data Analyst | Business Analyst | Data Scientist
 
 </table>
 
-<h2>⚙️ Tech Stack</h2>
+---
+
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode,github" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sambodhidhiwar&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambodhidhiwar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sambodhidhiwar&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 GitHub Stats
+---
 
-![](https://github-readme-stats.vercel.app/api?username=sambodhidhiwar&show_icons=true&theme=tokyonight)
+## 📈 Contribution Activity
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sambodhidhiwar&layout=compact&theme=tokyonight)
+[![Sambodhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sambodhidhiwar&theme=tokyo-night)]()
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sambodhidhiwar&theme=tokyonight)
+---
 
 ## 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=sambodhidhiwar&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=sambodhidhiwar&theme=tokyonight&no-frame=true&margin-w=15)
+
+---
 
 ## 🚀 Featured Projects
 
@@ -103,11 +120,16 @@ Tableau dashboard analysing EV trends.
 ### 🏦 Banking Transaction Analysis
 SQL + Power BI project.
 
+---
+
 <h2>🌐 Connect With Me</h2>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="PASTE_YOUR_LINKEDIN_URL_HERE">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+---
+
 <h2>🐍 Contribution Snake</h2>
 
 <p align="center">
