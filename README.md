@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=320&color=0:000000,40:0D1117,75:161B22,100:1F2937&text=Sambodhi%20Dhiwar&fontColor=FFFFFF&fontSize=58&animation=fadeIn&fontAlignY=42&desc=Aspiring%20Business%20Analyst%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Jira&descAlignY=63&descColor=58A6FF"/>
 
-# Hi, I'm Sambodhi Dhiwar
+# Welcome to my profile
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Business+Analyst;Requirements+Gathering;Process+Improvement;SQL+%7C+Excel+%7C+Power+BI;Jira+%7C+Tableau+%7C+Agile"/>
 
