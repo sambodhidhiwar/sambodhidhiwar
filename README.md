@@ -86,12 +86,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sambodhidhiwar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambodhidhiwar&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sambodhidhiwar&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambodhidhiwar&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sambodhidhiwar&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sambodhidhiwar&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
