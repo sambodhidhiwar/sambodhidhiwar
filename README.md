@@ -14,32 +14,32 @@
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-| 💼 Project | 🎯 Business Problem | 🛠 Solution | ⚙️ Tech | 🔗 |
+| Project | Business Problem | Solution | Tech | 🔗 |
 |------------|---------------------|-------------|----------|----|
-| 🏦 Banking Transaction Analysis | Understand customer transactions & cash flow | Interactive BI dashboard | SQL • Power BI | [Repository](https://github.com/sambodhidhiwar/Banking-transaction-analysis-sql-powerbi) |
-| 💼 HR Workforce Payroll MIS Dashboard | HR & payroll reporting | MIS dashboard with KPIs | SQL • Power BI | [Repository](https://github.com/sambodhidhiwar/HR-Workforce-Payroll-MIS-Dashboard) |
-| 🤖 Telecom Customer Churn Prediction | Predict customers likely to leave | ML model + Streamlit app | Python • Scikit-Learn • Streamlit | [Repository](https://github.com/sambodhidhiwar/telecom-customer-churn-prediction) |
-| 📈 HR Analytics – Attrition | Analyze employee attrition | Interactive HR dashboard | Power BI | [Repository](https://github.com/sambodhidhiwar/HR-Analytics-Attrition-Analysis) |
-| 📊 Customer Churn Dashboard | Identify churn trends | Business dashboard | Power BI | [Repository](https://github.com/sambodhidhiwar/customer-churn-dashboard) |
-| 🚗 Electric Vehicle Analysis | Explore EV market trends | Tableau dashboard | Tableau | [Repository](https://github.com/sambodhidhiwar/Electric-Vehicle-Analysis) |
+| Banking Transaction Analysis | Understand customer transactions & cash flow | Interactive BI dashboard | SQL • Power BI | [Repository](https://github.com/sambodhidhiwar/Banking-transaction-analysis-sql-powerbi) |
+| HR Workforce Payroll MIS Dashboard | HR & payroll reporting | MIS dashboard with KPIs | SQL • Power BI | [Repository](https://github.com/sambodhidhiwar/HR-Workforce-Payroll-MIS-Dashboard) |
+| Telecom Customer Churn Prediction | Predict customers likely to leave | ML model + Streamlit app | Python • Scikit-Learn • Streamlit | [Repository](https://github.com/sambodhidhiwar/telecom-customer-churn-prediction) |
+| HR Analytics – Attrition | Analyze employee attrition | Interactive HR dashboard | Power BI | [Repository](https://github.com/sambodhidhiwar/HR-Analytics-Attrition-Analysis) |
+| Customer Churn Dashboard | Identify churn trends | Business dashboard | Power BI | [Repository](https://github.com/sambodhidhiwar/customer-churn-dashboard) |
+| Electric Vehicle Analysis | Explore EV market trends | Tableau dashboard | Tableau | [Repository](https://github.com/sambodhidhiwar/Electric-Vehicle-Analysis) |
 
 ---
 
-# 📋 About Me
+# About Me
 
-- 🎓 MBA (AI & ML), DY Patil University — 2026
-- 💼 Aspiring Business Analyst
-- 📊 SQL • Excel • Power BI • Tableau
-- 🐍 Python • Scikit-Learn
-- 📐 Process Mapping • Microsoft Visio
-- 🗂 Agile • Jira • Confluence
-- 🚀 Open to Business Analyst Internships & Collaborations
+- MBA (AI & ML), DY Patil University — 2026
+- Aspiring Business Analyst
+- SQL • Excel • Power BI • Tableau
+- Python • Scikit-Learn
+- Process Mapping • Microsoft Visio
+- Agile • Jira • Confluence
+- Open to Business Analyst Internships & Collaborations
 
 ---
 
-# 🛠 Core Competencies
+# Core Competencies
 
 | Area | Skills |
 |------|--------|
@@ -52,7 +52,7 @@
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-# 📈 GitHub Statistics
+# GitHub Statistics
 
 <div align="center">
 
@@ -87,13 +87,13 @@
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sambodhidhiwar&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true)]()
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -105,7 +105,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/sambodhidhiwar/sambodhidhiwar/output/github-contribution-grid-snake.svg"/>
@@ -113,6 +113,6 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 </div>
