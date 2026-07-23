@@ -16,30 +16,13 @@
 
 # 🚀 Featured Projects
 
-### 🏦 Banking Transaction Analysis (SQL + Power BI)
-Business-focused transaction analysis using SQL and interactive Power BI dashboards.
-
-**Repository:** https://github.com/sambodhidhiwar/Banking-transaction-analysis-sql-powerbi
-
-### 📊 Customer Churn Dashboard
-Interactive Power BI dashboard to identify customer churn drivers.
-
-**Repository:** https://github.com/sambodhidhiwar/customer-churn-dashboard
-
-### 📈 HR Analytics – Attrition Analysis
-Power BI dashboard for employee attrition insights.
-
-**Repository:** https://github.com/sambodhidhiwar/HR-Analytics-Attrition-Analysis
-
-### 🚗 Electric Vehicle Analysis
-Tableau dashboard for EV market analysis.
-
-**Repository:** https://github.com/sambodhidhiwar/Electric-Vehicle-Analysis
-
-### 🤖 Telecom Customer Churn Prediction
-Python + Scikit-Learn + Streamlit application for churn prediction.
-
-**Repository:** https://github.com/sambodhidhiwar/telecom-customer-churn-prediction
+| 💼 Project | ⚡ Tech Stack | 📄 Description | 🔗 Repository |
+|------------|--------------|----------------|--------------|
+| 🏦 **Banking Transaction Analysis** | SQL • Power BI | Banking transaction analytics with business-focused dashboards and insights. | [View Project](https://github.com/sambodhidhiwar/Banking-transaction-analysis-sql-powerbi) |
+| 📊 **Customer Churn Dashboard** | Power BI | Dashboard explaining churn trends, KPIs and business insights. | [View Project](https://github.com/sambodhidhiwar/customer-churn-dashboard) |
+| 📈 **HR Analytics – Attrition Analysis** | Power BI | HR dashboard for employee attrition and retention analysis. | [View Project](https://github.com/sambodhidhiwar/HR-Analytics-Attrition-Analysis) |
+| 🚗 **Electric Vehicle Analysis** | Tableau | Interactive dashboard analyzing EV market trends. | [View Project](https://github.com/sambodhidhiwar/Electric-Vehicle-Analysis) |
+| 🤖 **Telecom Customer Churn Prediction** | Python • Scikit-Learn • Streamlit | Machine learning application for predicting customer churn. | [View Project](https://github.com/sambodhidhiwar/telecom-customer-churn-prediction) |
 
 ---
 
@@ -93,7 +76,6 @@ Python + Scikit-Learn + Streamlit application for churn prediction.
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sambodhidhiwar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambodhidhiwar&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"/>
 
 <br><br>
@@ -131,9 +113,7 @@ Python + Scikit-Learn + Streamlit application for churn prediction.
 # 🐍 Contribution Snake
 
 <div align="center">
-
 <img width="100%" src="https://raw.githubusercontent.com/sambodhidhiwar/sambodhidhiwar/output/github-contribution-grid-snake.svg"/>
-
 </div>
 
 <div align="center">
