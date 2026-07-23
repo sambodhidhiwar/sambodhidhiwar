@@ -13,6 +13,30 @@ Aspiring Business Analyst | Requirements Gathering | Process Improvement | Busin
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏦 Banking Transaction Analysis (SQL + Power BI)
+Analyzed customer transaction data to surface cash flow trends and business insights — the kind of requirements-to-insight workflow a BA leads: understanding stakeholder questions, querying the data, and delivering a decision-ready dashboard.
+**[View Project →](https://github.com/sambodhidhiwar/Banking-transaction-analysis-sql-powerbi)**
+
+### 📊 Customer Churn Dashboard (Power BI)
+Built a dashboard breaking down churn by contract type, tenure, payment method, and pricing — framed around the business question "where are we losing customers and why."
+**[View Project →](https://github.com/sambodhidhiwar/customer-churn-dashboard)**
+
+### 📈 HR Analytics – Attrition Analysis (Power BI)
+Dashboard and KPIs for employee retention, built to support HR stakeholders in identifying attrition drivers and prioritizing action.
+**[View Project →](https://github.com/sambodhidhiwar/HR-Analytics-Attrition-Analysis)**
+
+### 🚗 Electric Vehicle Analysis (Tableau)
+Market trend analysis dashboard supporting strategic/market-entry style questions.
+**[View Project →](https://github.com/sambodhidhiwar/Electric-Vehicle-Analysis)**
+
+### 🤖 Telecom Customer Churn Prediction (Python + ML)
+Machine learning model to predict at-risk customers, paired with a Streamlit dashboard — translating a predictive model into something non-technical stakeholders can act on.
+**[View Project →](https://github.com/sambodhidhiwar/telecom-customer-churn-prediction)**
+
+---
+
 ## 📋 About Me
 
 - 🎓 MBA (AI & ML), DY Patil University — 2026
@@ -37,7 +61,7 @@ Aspiring Business Analyst | Requirements Gathering | Process Improvement | Busin
 <tr>
 <td>Business Analysis</td>
 <td>Requirements Gathering, Documentation, Stakeholder Communication</td>
-<td>All projects below</td>
+<td>All projects above</td>
 </tr>
 <tr>
 <td>Process Improvement</td>
@@ -103,25 +127,6 @@ Aspiring Business Analyst | Requirements Gathering | Process Improvement | Busin
 ## 🏆 Achievements
 
 ![](https://github-profile-trophy.vercel.app/?username=sambodhidhiwar&theme=tokyonight&no-frame=true&margin-w=15)
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 Banking Transaction Analysis (SQL + Power BI)
-Analyzed customer transaction data to surface cash flow trends and business insights — the kind of requirements-to-insight workflow a BA leads: understanding stakeholder questions, querying the data, and delivering a decision-ready dashboard.
-
-### 📊 Customer Churn Dashboard (Power BI)
-Built a dashboard breaking down churn by contract type, tenure, payment method, and pricing — framed around the business question "where are we losing customers and why."
-
-### 📈 HR Analytics – Attrition Analysis (Power BI)
-Dashboard and KPIs for employee retention, built to support HR stakeholders in identifying attrition drivers and prioritizing action.
-
-### 🚗 Electric Vehicle Analysis (Tableau)
-Market trend analysis dashboard supporting strategic/market-entry style questions.
-
-### 🤖 Telecom Customer Churn Prediction (Python + ML)
-Machine learning model to predict at-risk customers, paired with a Streamlit dashboard — translating a predictive model into something non-technical stakeholders can act on.
 
 ---
 
