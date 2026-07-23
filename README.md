@@ -4,7 +4,7 @@ Aspiring Business Analyst | Requirements Gathering | Process Improvement | Busin
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=800&lines=Aspiring+Business+Analyst;Requirements+Gathering;Process+Improvement;SQL+%7C+Excel+%7C+Power+BI;Agile+%7C+Jira+%7C+Visio" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Aspiring+Business+Analyst;Requirements+Gathering;Process+Improvement;SQL+%7C+Excel+%7C+Power+BI;Agile+%7C+Jira+%7C+Visio" />
 </p>
 
 <p align="center">
@@ -95,13 +95,16 @@ Machine learning model to predict at-risk customers, paired with a Streamlit das
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,vscode,github" />
+<img src="https://skillicons.dev/icons?i=python,mysql,vscode,github" />
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Power_BI-1F3864?style=for-the-badge&logo=powerbi&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-1F3864?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-1F3864?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-1F3864?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/Confluence-000000?style=for-the-badge&logo=confluence&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/Visio-000000?style=for-the-badge&logo=microsoftvisio&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/Agile%2FScrum-000000?style=for-the-badge&logo=scrumalliance&logoColor=00D9FF">
 </p>
 
 ---
@@ -109,32 +112,32 @@ Machine learning model to predict at-risk customers, paired with a Streamlit das
 ## 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sambodhidhiwar&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1F3864&icon_color=1F3864&text_color=333333" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambodhidhiwar&layout=compact&hide_border=true&bg_color=ffffff&title_color=1F3864&text_color=333333" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sambodhidhiwar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambodhidhiwar&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sambodhidhiwar&hide_border=true&background=FFFFFF&ring=1F3864&fire=1F3864&currStreakLabel=1F3864&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=666666" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sambodhidhiwar&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 </p>
 
 ---
 
 ## 📈 Contribution Activity
 
-[![Sambodhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sambodhidhiwar&bg_color=ffffff&color=1F3864&line=1F3864&point=333333&area=true&hide_border=true)]()
+[![Sambodhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sambodhidhiwar&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)]()
 
 ---
 
 ## 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=sambodhidhiwar&theme=flat&no-frame=true&margin-w=15&column=4)
+![](https://github-profile-trophy.vercel.app/?username=sambodhidhiwar&theme=darkhub&no-frame=true&margin-w=15&column=4)
 
 ---
 
 <h2>🌐 Connect With Me</h2>
 
 <a href="https://www.linkedin.com/in/sambodhi-dhiwar-7307a7394/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF">
 </a>
 
 ---
