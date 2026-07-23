@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Sambodhi Dhiwar</h1>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,75:161B22,100:21262D&text=Sambodhi%20Dhiwar&fontColor=FFFFFF&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Business%20Analyst%20|%20Power%20BI%20|%20SQL%20|%20Python&descAlignY=58&descColor=58A6FF"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:000000,60:0D1117,100:161B22&text=Sambodhi%20Dhiwar&fontColor=FFFFFF&fontSize=52&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Business%20Analyst%20|%20Power%20BI%20|%20SQL%20|%20Python&descAlignY=63&descColor=58A6FF"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Aspiring+Business+Analyst;Requirements+Gathering;Process+Improvement;SQL+%7C+Excel+%7C+Power+BI;Python+%7C+Tableau+%7C+Agile"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Aspiring+Business+Analyst;Requirements+Gathering;Process+Improvement;SQL+%7C+Excel+%7C+Power+BI;Python+%7C+Tableau+%7C+Agile"/>
 </p>
 
 <p align="center">
@@ -16,40 +16,28 @@
 
 # 🚀 Featured Projects
 
-## 🏦 Banking Transaction Analysis (SQL + Power BI)
-Analyzed banking transactions with SQL and built interactive Power BI dashboards for business insights.
+### 🏦 Banking Transaction Analysis (SQL + Power BI)
+Business-focused transaction analysis with SQL and Power BI dashboards.
 
 **Repository:** https://github.com/sambodhidhiwar/Banking-transaction-analysis-sql-powerbi
 
----
-
-## 📊 Customer Churn Dashboard (Power BI)
-
-Business dashboard explaining customer churn trends.
+### 📊 Customer Churn Dashboard
+Power BI dashboard identifying customer churn drivers.
 
 **Repository:** https://github.com/sambodhidhiwar/customer-churn-dashboard
 
----
-
-## 📈 HR Analytics – Attrition Analysis
-
-HR analytics dashboard for employee attrition.
+### 📈 HR Analytics – Attrition Analysis
+Interactive HR dashboard for attrition analysis.
 
 **Repository:** https://github.com/sambodhidhiwar/HR-Analytics-Attrition-Analysis
 
----
-
-## 🚗 Electric Vehicle Analysis (Tableau)
-
-Interactive Tableau dashboard for EV market analysis.
+### 🚗 Electric Vehicle Analysis
+Tableau dashboard for EV market insights.
 
 **Repository:** https://github.com/sambodhidhiwar/Electric-Vehicle-Analysis
 
----
-
-## 🤖 Telecom Customer Churn Prediction
-
-Machine Learning + Streamlit application to predict customer churn.
+### 🤖 Telecom Customer Churn Prediction
+Python + Scikit-Learn + Streamlit churn prediction application.
 
 **Repository:** https://github.com/sambodhidhiwar/telecom-customer-churn-prediction
 
@@ -57,13 +45,13 @@ Machine Learning + Streamlit application to predict customer churn.
 
 # 📋 About Me
 
-- 🎓 MBA (AI & ML), DY Patil University — 2026
+- 🎓 MBA (AI & ML), DY Patil University (2026)
 - 💼 Aspiring Business Analyst
-- 📊 Power BI • Tableau • SQL
+- 📊 SQL • Excel • Power BI • Tableau
 - 🐍 Python • Scikit-Learn
 - 📐 Process Mapping • Microsoft Visio
 - 🗂 Agile • Jira • Confluence
-- 🚀 Open to Business Analyst Internships
+- 🚀 Open to Business Analyst internships
 
 ---
 
@@ -71,10 +59,10 @@ Machine Learning + Streamlit application to predict customer churn.
 
 | Area | Skills |
 |------|--------|
-| Business Analysis | Requirements Gathering, Stakeholder Communication, BRD |
+| Business Analysis | Requirements Gathering, BRD, Stakeholder Communication |
 | Data Analytics | SQL, Excel, Power BI |
-| Visualization | Tableau, Power BI |
-| Process Improvement | Gap Analysis, Process Mapping |
+| Visualization | Power BI, Tableau |
+| Process Improvement | Process Mapping, Gap Analysis |
 | Machine Learning | Python, Scikit-Learn |
 | Agile | Jira, Scrum |
 
@@ -83,11 +71,8 @@ Machine Learning + Streamlit application to predict customer churn.
 # ⚙️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,mysql,vscode,github"/>
-
 <br><br>
-
 <img src="https://img.shields.io/badge/Power_BI-161B22?style=for-the-badge&logo=powerbi&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/Excel-161B22?style=for-the-badge&logo=microsoft-excel&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=mysql&logoColor=58A6FF"/>
@@ -95,7 +80,6 @@ Machine Learning + Streamlit application to predict customer churn.
 <img src="https://img.shields.io/badge/Jira-161B22?style=for-the-badge&logo=jira&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/Confluence-161B22?style=for-the-badge&logo=confluence&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/Visio-161B22?style=for-the-badge&logo=microsoftvisio&logoColor=58A6FF"/>
-
 </p>
 
 ---
@@ -103,17 +87,12 @@ Machine Learning + Streamlit application to predict customer churn.
 # 📈 GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sambodhidhiwar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambodhidhiwar&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sambodhidhiwar&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
-
 </p>
 
 ---
