@@ -23,7 +23,7 @@
 | Telecom Customer Churn Prediction | Predict customers likely to leave | ML model + Streamlit app | Python • Scikit-Learn • Streamlit | [Repository](https://github.com/sambodhidhiwar/telecom-customer-churn-prediction) |
 | HR Analytics – Attrition | Analyze employee attrition | Interactive HR dashboard | Power BI | [Repository](https://github.com/sambodhidhiwar/HR-Analytics-Attrition-Analysis) |
 | Customer Churn Dashboard | Identify churn trends | Business dashboard | Power BI | [Repository](https://github.com/sambodhidhiwar/customer-churn-dashboard) |
-| Electric Vehicle Analysis | Explore EV market trends | Tableau dashboard | Tableau | [Repository](https://github.com/sambodhidhiwar/Electric-Vehicle-Analysis) |
+| Electric Vehicle Market Analysis | Explore EV market trends | Tableau dashboard | Tableau | [Repository](https://github.com/sambodhidhiwar/Electric-Vehicle-Analysis) |
 
 ---
 
