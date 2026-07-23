@@ -60,13 +60,23 @@
 
 <br><br>
 
+<p align="center">
+
 <img src="https://img.shields.io/badge/Power_BI-161B22?style=for-the-badge&logo=powerbi&logoColor=58A6FF"/>
+
 <img src="https://img.shields.io/badge/Excel-161B22?style=for-the-badge&logo=microsoft-excel&logoColor=58A6FF"/>
+
 <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=mysql&logoColor=58A6FF"/>
+
 <img src="https://img.shields.io/badge/Tableau-161B22?style=for-the-badge&logo=tableau&logoColor=58A6FF"/>
+
 <img src="https://img.shields.io/badge/Jira-161B22?style=for-the-badge&logo=jira&logoColor=58A6FF"/>
+
 <img src="https://img.shields.io/badge/Confluence-161B22?style=for-the-badge&logo=confluence&logoColor=58A6FF"/>
+
 <img src="https://img.shields.io/badge/Visio-161B22?style=for-the-badge&logo=microsoftvisio&logoColor=58A6FF"/>
+
+</p>
 
 </div>
 
